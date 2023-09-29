@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "Manga.Web"
+include ':nativetemplates'
+include ':nativetemplates'

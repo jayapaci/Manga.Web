@@ -1,0 +1,173 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-anydpi/ic_arrowleft.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-anydpi/ic_arrowright.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-anydpi/ic_list.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-v24/bg_list_nav.xml" value="0.2305" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2305" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_episode.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_label.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_list_chap.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_list_genre.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_list_genre_trans.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_rate.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_search.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_arrow_right.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_hourglass_empty_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_local_fire_department_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_facebook.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_fb.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_google.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_history.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_info.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_pin.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_play_store.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_privacy.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_refresh.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_row_back.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_sort.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_star.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/round_background.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_blog.xml" value="0.23505434782608695" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_comic.xml" value="0.23505434782608695" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_detail.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_expand.xml" value="0.23505434782608695" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_genre.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_login.xml" value="0.2633333333333333" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_main.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_privacy.xml" value="0.25" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_register.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_splash.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_update.xml" value="0.33" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank2.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank3.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank4.xml" value="0.33" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_blog.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_chap.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_cycle.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_post.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_premium.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/native_ad_container.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/post_ads_medium_native.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/post_ads_small_native.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/start_app_native.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/menu/menu.xml" value="0.35052083333333334" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/drawable/gnt_outline_shape.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/drawable/gnt_rounded_corners_shape.xml" value="0.184" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/layout/gnt_medium_template_view.xml" value="0.3070652173913043" />
+        <entry key="..\:/APLIKASI YANG READY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/layout/gnt_small_template_view.xml" value="0.3070652173913043" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/drawable/bg_label.xml" value="0.1185" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/drawable/bg_rate.xml" value="0.1185" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.132" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1185" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/drawable/ic_pin.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_comic.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_detail.xml" value="0.12409420289855072" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_genre.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_main_register.xml" value="0.40714285714285714" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_testn.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/fragment_blank3.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Android Studio/Reskin/MANGAKO/app/src/main/res/layout/list_post.xml" value="0.33" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/MANGAKO/app/src/main/res/layout/activity_detail.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/MANGAKO/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-v24/bg_list_nav.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_episode.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_label.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_list_chap.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_list_genre.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_list_genre_trans.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_rate.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/bg_search.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_arrow_right.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.3495" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_hourglass_empty_24.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_local_fire_department_24.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.3495" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_facebook.xml" value="0.3495" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_fb.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_google.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_history.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_info.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_pin.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_play_store.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_privacy.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_refresh.xml" value="0.2855" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_row_back.xml" value="0.233" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_sort.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/ic_star.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/drawable/round_background.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_blog.xml" value="0.1921875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_comic.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_detail.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_expand.xml" value="0.1921875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_genre.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_login.xml" value="0.1921875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_privacy.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_register.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_search.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/activity_update.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank2.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank3.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_blank4.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_blog.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_chap.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_cycle.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_post.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/list_premium.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/native_ad_container.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/post_ads_medium_native.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/post_ads_small_native.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/layout/start_app_native.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/menu/menu.xml" value="0.3546875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.356" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/drawable/gnt_outline_shape.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/drawable/gnt_rounded_corners_shape.xml" value="0.283" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/layout/gnt_medium_template_view.xml" value="0.1921875" />
+        <entry key="..\:/DATA APLIKASI JAY/LOGIN USER ID BARU/update terbaru 22.05.22/MANGAKO/nativetemplates/src/main/res/layout/gnt_small_template_view.xml" value="0.3546875" />
+        <entry key="..\:/Users/FIRMAN/Documents/MANGAKO/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/FIRMAN/Documents/MANGAKO/app/src/main/res/layout/list_post.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

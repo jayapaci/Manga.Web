@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_home"
+        android:id="@+id/home_menu"
+        android:title="Home"/>
+    <item
+        android:icon="@drawable/ic_baseline_local_fire_department_24"
+        android:id="@+id/latest"
+        android:title="Latest"/>
+    <item
+        android:icon="@drawable/ic_pin"
+        android:id="@+id/fav"
+        android:title="Fav"/>
+    <item
+        android:icon="@drawable/ic_history"
+        android:id="@+id/history"
+        android:title="History"/>
+    <item
+        android:id="@+id/account_menu"
+        android:title="Info App"
+        android:icon="@android:drawable/ic_dialog_info"/>
+
+</menu>

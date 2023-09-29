@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Gogo-Manga</string>
+
+    <string name="notification_channel_id">233</string>
+    <string name="notification_channel_name">channelname</string>
+
+    <!--    KODE IKLAN OPEN ADS DI com.mangauniverseapp.app.Config   -->
+
+    <!--    AdMobAds-->
+    <!--    <string name="admob_app_id">ca-app-pub-7874939914388535~1277968590</string>-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="native_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_inter_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--    UnityAds-->
+    <!--    <string name="unityGameID">3896203</string>-->
+    <!--    <string name="UnityBANNER">bannerid</string>-->
+    <!--    <string name="UnityINTER">video</string>-->
+    <!--    <string name="unityInter">video</string>-->
+
+    <!--    FANADS-->
+    <!--    <string name="fanBanner">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+    <!--    <string name="fanInter">YOUR_PLACEMENT_ID</string>-->
+    <!--    <string name="fanNative">YOUR_PLACEMENT_ID</string>-->
+    <!--    STARTAPP-->
+    <string name="startapp_app_id">202170055</string>
+
+    <string name="tired">Tired Of Ads?\nLets Buy Premium</string>
+    <string name="play_console_license">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqSXBVyd8aN9d1At+qxaueLJjcHPhDg7YNp80VltdncDRsw+booQlpeVtBT0jM3/slg/rxQ+57MskpLJI6K2Ly4ebaGx+FW08br450oeZudzhv0aJJZmbMpcU8nMVmlUxeDMw2HlY5xp8Rqm39KcMZwMlX5IeD3WcCtiIlmY76cTJxKL/iKjua+9Gb849m3zt/4VwwhSMZ9+C9jg0ZfsNnq9RJ2cDemf+ni+LmFUWW32XPeS+p3mGIqQQmlbn299UVt1pgPxlRYzByEfeGY4NZtrjO04K9lnu8WxmfeW3p0FhDyq06YyrGTj9+uVnGqFSPGOCTyTRe9+c12IebBKbrQIDAQAB</string>
+    <string name="login">Login,  \nBefore Start</string>
+    <string name="priv">By registering, you agree \nto the Service and our Security Policy</string>
+
+
+    <!--    /////PREMIUM FEATURE-->
+    <string-array name="productName">
+        <item>1 Month</item>
+        <item>3 Month</item>
+        <item>6 Month</item>
+        <item>12 Month</item>
+    </string-array>
+
+    <string-array name="productId">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="productPrice">
+        <item>$1</item>
+        <item>$2</item>
+        <item>$3</item>
+        <item>$4</item>
+    </string-array>
+    <string name="facebook_app_id">706587573839984</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">1fc0b40730a7bb998479555e815e8113</string>
+
+    <string name="applovin_inter">809294d26c7b97c7</string>
+    <string name="applovin_banner_id">43b9fcab8dc72fe9</string>
+    <string name="applovin_sdk_key">bdt5z6zNZ-89ZT-5IpD1TGJRxthfTMK-cFq7b5SgETStSTyH1v5zwqAOxW9WJgEDbfk9q-r-vhkHxabL0TEzeM</string>
+    <string name="server_client_id">1062605488523-40hb55vkjr49pdqpcsq6kmapoed348m2.apps.googleusercontent.com</string>
+    <string name="register">Create Your Account to Explore </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

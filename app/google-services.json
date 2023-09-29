@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "214932778115",
+    "firebase_url": "https://manga-ko-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "manga-ko",
+    "storage_bucket": "manga-ko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214932778115:android:95cb4d5c7c527ec548bfb6",
+        "android_client_info": {
+          "package_name": "com.Gogo.Manga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214932778115-7gebb57vrup682fokro2cgujj7oq0e14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Gogo.Manga",
+            "certificate_hash": "87ad546836ac52f87108bf947d1c3c85902c8efd"
+          }
+        },
+        {
+          "client_id": "214932778115-81p9sjol8ldj7gjec3250vm6u0kef2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp98mZYXZh0YkzLEwScL4XCRq_3FhFPmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214932778115-81p9sjol8ldj7gjec3250vm6u0kef2jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214932778115:android:4fcea2382d990fe648bfb6",
+        "android_client_info": {
+          "package_name": "com.Gogo.Manga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214932778115-a06s2hi36dlune2i1iq5sem92qtv6ke7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Gogo.Manga",
+            "certificate_hash": "54a6b420e437d1eee372673df3d57028c3713124"
+          }
+        },
+        {
+          "client_id": "214932778115-81p9sjol8ldj7gjec3250vm6u0kef2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp98mZYXZh0YkzLEwScL4XCRq_3FhFPmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214932778115-81p9sjol8ldj7gjec3250vm6u0kef2jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214932778115:android:22afaedfdf939ef548bfb6",
+        "android_client_info": {
+          "package_name": "com.Gogo.Manga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214932778115-g047ddrl3i15efn59cgvl48277rsbnse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Gogo.Manga",
+            "certificate_hash": "8c82b220a9c51faa218a74ea154f3793732aeb5c"
+          }
+        },
+        {
+          "client_id": "214932778115-81p9sjol8ldj7gjec3250vm6u0kef2jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp98mZYXZh0YkzLEwScL4XCRq_3FhFPmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214932778115-81p9sjol8ldj7gjec3250vm6u0kef2jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

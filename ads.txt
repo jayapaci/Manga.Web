@@ -1,0 +1,11 @@
+Klik Edit - find - find in files.
+
+Kode iklan Banner = "bannermaxid"
+Kode iklan Interstisial = "interstitialmaxid"
+
+AndroidManifest = "BHPir217kE2kb4dbBs5l9S1x4qie9cSk4ctU6DiUBm4E_l3FA6p8xUkSOr6u3U8gCS51FLq-TguhaEsNkNxcaa"
+
+Ganti dengan id kita.
+
+ <meta-data android:name="applovin.sdk.key"
+            android:value="BHPir217kE2kb4dbBs5l9S1x4qie9cSk4ctU6DiUBm4E_l3FA6p8xUkSOr6u3U8gCS51FLq-TguhaEsNkNxcaa"/>
